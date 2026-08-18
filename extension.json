@@ -4,6 +4,16 @@
   "description": "Clambonの予約語を日本語で書けるようにする拡張機能",
   "python": "main.py",
   "sourceTransform": true,
+  "syntaxHighlighting": {
+    "keywords": {
+      "control": ["待つ", "ずっと", "もし", "でなければ", "繰り返し"],
+      "operators": ["乱数", "かつ", "または", "ではない", "剰余", "四捨五入", "絶対値", "切り下げ", "切り上げ", "平方根", "正弦", "余弦", "正接", "逆正弦", "逆余弦", "逆正接", "自然対数", "対数", "真", "偽", "長さ", "含む", "結合", "文字", "から", "の"],
+      "variables": ["変数"],
+      "lists": ["リスト", "追加", "削除", "挿入", "位置", "すべて"],
+      "looks": ["印刷"],
+      "custom": ["定義", "返す"]
+    }
+  },
   "assets": [],
   "capabilities": ["source-transform"]
 }
