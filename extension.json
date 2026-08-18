@@ -1,0 +1,9 @@
+{
+  "name": "JapaCla",
+  "version": "0.1.0",
+  "description": "Clambonの予約語を日本語で書けるようにする拡張機能",
+  "python": "main.py",
+  "sourceTransform": true,
+  "assets": [],
+  "capabilities": ["source-transform"]
+}
