@@ -34,7 +34,7 @@ JP2EN = {
     "挿入": "insert",
     "長さ": "length",
     "含む": "contains",
-    "印刷": "print",
+    "出力": "print",
     "定義": "define",
     "返す": "return",
     "すべて": "all",
